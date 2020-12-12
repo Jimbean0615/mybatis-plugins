@@ -2,6 +2,7 @@
 
 ## 1. 现有功能点
 
+* 提供表名自动替换功能（读取系统配置项，gray.shadow.enabled和gray.shadow.tables）
 * 提供SQL自动打印功能
 * 提供SQL自动追加traceid前缀功能，完善zeye分布式调用链路
 * 提供最大查询数量限制
