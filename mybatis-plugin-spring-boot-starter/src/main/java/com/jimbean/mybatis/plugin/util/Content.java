@@ -6,7 +6,7 @@ package com.jimbean.mybatis.plugin.util;
  * @author: zhangjb <br/>
  * @Date: 2019/6/5 <br/>
  * @Email: <a href="mailto:zhangjb@cai-inc.com">zhangjb</a> <br/>
- * @Readme: cn.gov.zcy.boot.mybatis.plugin.interceptor.Content <br/>
+ * @Readme: com.jimbean.boot.mybatis.plugin.interceptor.Content <br/>
  */
 public class Content {
 

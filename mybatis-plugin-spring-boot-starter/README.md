@@ -24,7 +24,7 @@ mybatis:
         autoSetup: true //是否开始追加limit，默认值true
         limitValue: 1000 //限制查询最大条数的具体值，默认1000
       RequestRecordDao2:
-        stmtid: cn.gov.zcy.communication.dao.VoiceRecordDao.countStatus
+        stmtid: com.jimbean.communication.dao.VoiceRecordDao.countStatus
     autoAddTraceid: true //是否开启SQL语句自动追加traceid前缀，默认值false
     autoLogSQL: false //是否开启SQL自动打印功能，默认值false，配置为true将在log日志中输出SQL语句
 ```

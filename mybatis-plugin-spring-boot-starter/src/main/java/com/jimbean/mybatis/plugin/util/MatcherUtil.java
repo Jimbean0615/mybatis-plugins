@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
  * @author: zhangjianbin <br/>
  * @Date: 2019-12-27 <br/>
  * @Email: <a href="mailto:zhangjb@cai-inc.com">zhangjb</a> <br/>
- * @Readme: cn.gov.zcy.boot.mybatis.plugin.util.MatcherUtil <br/>
+ * @Readme: com.jimbean.boot.mybatis.plugin.util.MatcherUtil <br/>
  */
 public class MatcherUtil {
 
@@ -51,7 +51,7 @@ public class MatcherUtil {
 
     public static void main(String[] args) {
         String s = "/*    updateByPrimaryKey*/ update tb_content  set category_id = ?,title = ?,sub_title = ?,title_desc = ?,url = ?,pic = ?,pic2 = ?,content = ?,created = ?,updated = ? where  id = ?";
-        String ss = appendStmtid("cn.gov.zcy.security.oauth2.resource.mapper.TbContentMapper.updateByPrimaryKey", s);
+        String ss = appendStmtid("com.jimbean.security.oauth2.resource.mapper.TbContentMapper.updateByPrimaryKey", s);
         System.out.println(ss);
     }
 

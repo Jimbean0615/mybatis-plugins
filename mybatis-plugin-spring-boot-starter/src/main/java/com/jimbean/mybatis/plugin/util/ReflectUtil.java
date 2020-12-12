@@ -8,7 +8,7 @@ import java.lang.reflect.Field;
  * @author: zhangjb <br/>
  * @Date: 2019/6/6 <br/>
  * @Email: <a href="mailto:zhangjb@cai-inc.com">zhangjb</a> <br/>
- * @Readme: cn.gov.zcy.boot.mybatis.plugin.util.ReflectUtil <br/>
+ * @Readme: com.jimbean.boot.mybatis.plugin.util.ReflectUtil <br/>
  */
 public class ReflectUtil {
 

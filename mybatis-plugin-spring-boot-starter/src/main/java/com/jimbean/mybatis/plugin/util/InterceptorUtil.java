@@ -10,7 +10,7 @@ import org.apache.ibatis.mapping.SqlSource;
  * @author: zhangjb <br/>
  * @Date: 2019/4/17 <br/>
  * @Email: <a href="mailto:zhangjb@cai-inc.com">zhangjb</a> <br/>
- * @Readme: cn.gov.zcy.boot.mybatis.plugin.util.InterceptorUtil <br/>
+ * @Readme: com.jimbean.boot.mybatis.plugin.util.InterceptorUtil <br/>
  */
 public class InterceptorUtil {
 

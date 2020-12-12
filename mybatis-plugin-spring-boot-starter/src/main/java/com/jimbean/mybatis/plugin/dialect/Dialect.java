@@ -1,6 +1,5 @@
 package com.jimbean.mybatis.plugin.dialect;
 
-import cn.gov.zcy.zeye.util.TraceIdUtil;
 
 /**
  * 
